@@ -1,0 +1,11 @@
+C:\Users\pbben\Desktop\trec\sourceCode\sourceCode\TRec.BusinessLayer\bin\Debug\TRec.BusinessLayer.dll
+C:\Users\pbben\Desktop\trec\sourceCode\sourceCode\TRec.BusinessLayer\bin\Debug\TRec.BusinessLayer.pdb
+C:\Users\pbben\Desktop\trec\sourceCode\sourceCode\TRec.BusinessLayer\obj\Debug\TRec.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\pbben\Desktop\trec\sourceCode\sourceCode\TRec.BusinessLayer\obj\Debug\TRec.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\pbben\Desktop\trec\sourceCode\sourceCode\TRec.BusinessLayer\obj\Debug\TRec.BusinessLayer.dll
+C:\Users\pbben\Desktop\trec\sourceCode\sourceCode\TRec.BusinessLayer\obj\Debug\TRec.BusinessLayer.pdb
+C:\Users\pbben\Desktop\trec\sourceCode\sourceCode\TRec.BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pbben\Desktop\trec\sourceCode\sourceCode\TRec.BusinessLayer\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\pbben\Desktop\trec\sourceCode\sourceCode\TRec.BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pbben\Desktop\trec\sourceCode\sourceCode\TRec.BusinessLayer\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\pbben\Desktop\trec\sourceCode\sourceCode\TRec.BusinessLayer\obj\Debug\TRec.BusinessLayer.csproj.CopyComplete
